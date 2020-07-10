@@ -4,7 +4,9 @@ This project implements an SSD network to detect human faces, faces with regular
 Prediction Example
 ![image](mask.png)
 
-To try it using your own images, put the image inside my_img/ in the root folder, and run the following command from the root folder:
+To try it using your own images:
+- Create a folder called "my_img" from the source directory
+- put the image inside my_img/, and run the following command from the root folder:
 ```
 python demo.py
 ```
